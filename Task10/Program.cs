@@ -22,7 +22,6 @@ int SecondDigit(int num)
 
 int second = SecondDigit(number);
 Console.WriteLine($"Вторая цифра числа {number} => {second}");
-
-
+// Console.WriteLine(SecondDigit(789));
 // int second1 = SecondDigit(785);
 // Console.WriteLine(second1);
